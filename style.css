@@ -1,0 +1,12 @@
+body{
+   text-align: center;
+}
+.ncyu{
+   border: solid 3px pink;
+   width: 100px;
+   height: 100px;
+   display: inline;
+   font-size: 30px;
+   color: #594157;
+   background-color: #f5e6f4;
+}
